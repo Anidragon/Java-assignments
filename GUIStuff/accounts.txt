@@ -1,0 +1,3 @@
+C/Ellis/stoneCliffe/city/State/240.0/Zip_Code/19753/0/
+S/Ellis/stoneCliffe/city/State/60.06/Zip_Code/19757/
+S/Soham/hi/city/State/0.0/Zip_Code/19766/
